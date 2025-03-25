@@ -41,3 +41,21 @@ git clone https://github.com/Ostap200488/Docker-QAP.git
 cd Docker-QAP/golf-club-api-master-10
 ./gradlew build
 docker compose up --build
+
+🧩 API Endpoints Summary
+
+Member Endpoints
+GET /api/members
+GET /api/members/{id}
+POST /api/members
+PUT /api/members/{id}
+DELETE /api/members/{id}
+GET /api/members/search?...
+Tournament Endpoints
+GET /api/tournaments
+GET /api/tournaments/{id}
+POST /api/tournaments
+PUT /api/tournaments/{id}
+DELETE /api/tournaments/{id}
+POST /api/tournaments/{id}/addMember?memberId={id}
+GET /api/tournaments/search?...
