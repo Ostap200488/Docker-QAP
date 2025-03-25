@@ -26,13 +26,10 @@ Ensure the following are installed on your system:
 
 ## Getting Started
 
-### **1. Clone the Repository**
-
-git clone https://github.com/dev-pavel/golf-club-api.git \
-cd golf-club-api
 
 
-### **2. Build and Start the Application**
+
+### **1. Build and Start the Application**
 
 #### **Using Docker Compose**
 1. Build and start the containers: \
