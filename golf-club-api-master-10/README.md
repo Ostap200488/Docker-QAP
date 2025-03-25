@@ -11,23 +11,7 @@ This project is a RESTful API for managing golf club members and tournaments, bu
 - MySQL as the database.
 - Containerized application with Docker.
 - Gradle as the build tool.
-
----
-
-## Prerequisites
-
-Ensure the following are installed on your system:
-
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-- [JDK 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
-
----
-
 ## Getting Started
-
-
-
 
 ### **1. Build and Start the Application**
 
